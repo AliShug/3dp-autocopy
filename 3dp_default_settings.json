@@ -1,6 +1,6 @@
 {
     "src": "${USERPROFILE}\\Dropbox\\3D Prints",
-    "target": "SDCARD",
+    "dst": "D:/",
     "refresh_time": 1,
     "eject": true,
     "show_message": true
